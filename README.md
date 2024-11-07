@@ -1,4 +1,6 @@
 # Codice Test Generic Utilities
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcmboling-vulnerabilities-research%2Fcodice-test.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcmboling-vulnerabilities-research%2Fcodice-test?ref=badge_shield)
+
 Repository of re-usable test utilities.
 
 ### Modules
@@ -47,3 +49,7 @@ The [Failsafe Controller](docs/failsafe-controller.md) provides a testing framew
 ### Future iterations
 Future implementations will:
 * Provide CI/CD support
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcmboling-vulnerabilities-research%2Fcodice-test.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcmboling-vulnerabilities-research%2Fcodice-test?ref=badge_large)
